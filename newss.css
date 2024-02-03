@@ -1,0 +1,24 @@
+@charset "UTF-8";
+#MenuBar1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+	width: 0px;
+	border-top-width: 20pt;
+	border-right-width: 20pt;
+	border-bottom-width: 20pt;
+	border-left-width: 20pt;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	letter-spacing: 0.1em;
+	background-color: #FFFFFF;
+}
+h4 {
+	font-family: Verdana;
+	font-size: 12pt;
+	color: #333333;
+}
